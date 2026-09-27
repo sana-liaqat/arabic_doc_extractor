@@ -363,7 +363,7 @@ def main():
 
     with col_center:
         st.markdown(
-            '<h1 style="text-align:center; margin-top: 10px;">مستخرج المستندات القانونية</h1>',
+            '<h1 style="text-align:center; margin-top: 10px;">مستخرج المستندات</h1>',
             unsafe_allow_html=True
         )
         st.markdown(
