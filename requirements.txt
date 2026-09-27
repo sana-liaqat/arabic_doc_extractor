@@ -8,5 +8,6 @@ Pillow
 pandas
 plotly
 openai
+PyMuPDF
 google-genai
 watchdog
